@@ -1,5 +1,5 @@
 # Python-DA-NumPy-and-Pandas
-# 🐍 Python DA Assignment 1 – NumPy and Pandas
+# 🐍 Python DA – NumPy and Pandas
 
 ## 📖 Project Overview
 
